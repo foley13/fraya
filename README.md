@@ -1,0 +1,2 @@
+# fraya
+Wordpress Fraya Theme
